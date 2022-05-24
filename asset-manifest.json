@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ag-grid/static/css/main.0dda977c.css",
+    "main.js": "/ag-grid/static/js/main.fa9ff955.js",
+    "index.html": "/ag-grid/index.html",
+    "main.0dda977c.css.map": "/ag-grid/static/css/main.0dda977c.css.map",
+    "main.fa9ff955.js.map": "/ag-grid/static/js/main.fa9ff955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dda977c.css",
+    "static/js/main.fa9ff955.js"
+  ]
+}
